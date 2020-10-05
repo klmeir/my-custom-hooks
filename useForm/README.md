@@ -2,7 +2,7 @@
 
 Example:
 ```    
-    const  = {
+    const initialForm = {
         name: '',
         age: 0,
         email: ''
